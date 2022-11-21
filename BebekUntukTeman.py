@@ -1,0 +1,5 @@
+n, m = input ('').split()
+n = int(n)
+m = int(m)
+print ('masing-masing', n // m)
+print ('bersisa', n % m)
